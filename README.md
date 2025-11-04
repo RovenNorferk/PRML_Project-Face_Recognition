@@ -92,13 +92,6 @@ python models/predict_face.py --image path/to/image.jpg
 
 > Adjust the file names based on your actual code.
 
-## 🧪 Results
-
-You should report:
-- Which combination of feature extraction + classifier performed the best
-- Final accuracy and perhaps confusion matrix
-- Some sample test images with predicted labels vs true labels
-- Any observations/insights (e.g., "Eigenfaces + SVM gave 92% accuracy; LBP + k-NN gave 88%; PCA helped reduce dimensionality from 10,000 to 100 features with little accuracy loss.")
 
 ## 🔧 Customisation & Extension
 
